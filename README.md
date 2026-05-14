@@ -19,6 +19,7 @@ HumanVsAI_Text_Classification/
 │   └── train.py            # Training pipeline entry point
 ├── docker/
 │   └── Dockerfile
+│   └── requirements.txt
 ├── data/                   # JSONL dataset files (not tracked)
 │   ├── train_data.jsonl
 │   ├── dev_data.jsonl
